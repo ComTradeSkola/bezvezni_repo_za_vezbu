@@ -17,7 +17,12 @@
             </intent-filter>
         </activity>
         <activity android:name=".Main2button"></activity>
+
+        <activity android:name=".TabelaZaUnosActivity"></activity>
+        <activity android:name=".OsisaoSamSeNaCelavo"></activity>
+
         <activity android:name=".AnketaActivity"></activity>
+
     </application>
 
 </manifest>
