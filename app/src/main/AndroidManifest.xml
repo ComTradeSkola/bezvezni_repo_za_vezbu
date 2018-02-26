@@ -16,8 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
 
         <activity android:name=".TabelaZaUnosActivity"></activity>
+=======
+        <activity android:name=".OsisaoSamSeNaCelavo"></activity>
+
+
+>>>>>>> c501a7e1c8c784190ed820234151a68846839678
 
         <activity android:name=".AnketaActivity"></activity>
 
