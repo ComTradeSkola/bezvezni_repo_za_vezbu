@@ -17,6 +17,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".OsisaoSamSeNaCelavo"></activity>
+
+
+
+        <activity android:name=".AnketaActivity"></activity>
     </application>
 
 </manifest>
