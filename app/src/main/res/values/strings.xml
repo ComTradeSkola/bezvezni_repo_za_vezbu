@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BezvezniProjekat</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
 </resources>
